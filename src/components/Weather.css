@@ -1,5 +1,4 @@
 .weather {
-    
   place-self: center;
   padding: 40px;
   border-radius: 10px;
@@ -9,11 +8,6 @@
   align-items: center;
 }
 
-.heading{
-    color: white;
-    padding-bottom: 10px;
-    padding-top: 17px;
-}
 .search-bar {
   display: flex;
   align-items: center;
