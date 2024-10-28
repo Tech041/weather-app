@@ -68,6 +68,7 @@ const Weather = () => {
 
   return (
     <div className="weather">
+    <h3 className="heading">GEO-APP</h3>
       <div className="search-bar">
         <input ref={inputRef} type="text" placeholder="Search" />
         <img

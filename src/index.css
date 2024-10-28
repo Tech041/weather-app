@@ -3,12 +3,16 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  
   font-family: "Poppins", sans-serif;
 }
 
 .app {
-  min-height: 100vh;
-  min-width: 399px;;
-  display: grid;
-  background: #e2d4ff;
+  padding-top: 25px;
+margin-top: 20px;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
 }
