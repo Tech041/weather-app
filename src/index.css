@@ -8,6 +8,7 @@
 
 .app {
   min-height: 100vh;
+  min-width: 400px;;
   display: grid;
   background: #e2d4ff;
 }
